@@ -1,0 +1,17 @@
+{
+  "name": "driving-test-cancellations",
+  "author": "Daniel Gavrilov <daniel@gavrilov.co.uk>",
+  "version": "0.0.1",
+  "description": "A Node script for checking UK practical driving test cancellations.",
+  "main": "index.js",
+  "dependencies": {
+    "cli-color": "~0.3.2",
+    "moment": "~2.8.0",
+    "nodemailer": "~1.1.1",
+    "prompt": "~0.2.13",
+    "q": "~1.0.1",
+    "zombie": "~2.0.0-alpha31",
+  },
+  "devDependencies": {},
+  "license": "MIT"
+}

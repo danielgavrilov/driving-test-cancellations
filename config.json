@@ -1,0 +1,8 @@
+{
+	"LOGIN_URL": "https://driverpracticaltest.direct.gov.uk/login",
+	"LICENCE_NUMBER": "AAAAA999999A99AA",
+	"APPLICATION_REFERENCE_NUMBER": "12345678",
+	"GMAIL_USERNAME": "yourGmailUsername",
+	"GMAIL_PASSWORD": "yourGmailPassword",
+	"RECIPIENT": "recipientOfEmail@example.com"
+}
